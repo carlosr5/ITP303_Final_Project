@@ -1,0 +1,24 @@
+.dark-spring-green {
+  background-color: #04724dff;
+}
+
+.viridian {
+  background-color: #56876dff;
+}
+
+.dark-liver {
+  background-color: #3d3a4bff;
+}
+
+#footer {
+  margin-top: 80px;
+}
+
+#opening-name {
+  text-align: center;
+}
+
+.input-text {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
